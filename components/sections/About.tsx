@@ -102,7 +102,7 @@ export function About() {
                   style={{ background: "linear-gradient(135deg, rgba(24,59,91,0.04) 0%, rgba(127,169,155,0.08) 100%)" }}
                 >
                   <p className="text-sm text-dark/70 italic leading-relaxed">
-                    "Minha missão é ajudar cada criança a descobrir e desenvolver todo o seu potencial, transformando dificuldades em conquistas."
+                    &ldquo;Minha missão é ajudar cada criança a descobrir e desenvolver todo o seu potencial, transformando dificuldades em conquistas.&rdquo;
                   </p>
                   <div className="flex items-center gap-2 mt-3">
                     <div className="h-0.5 w-6 bg-gold rounded-full" />
