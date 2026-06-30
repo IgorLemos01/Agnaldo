@@ -51,8 +51,8 @@ const config: Config = {
         dark: "#2B2B2B",
       },
       fontFamily: {
-        heading: ["Sora", "sans-serif"],
-        body: ["Inter", "sans-serif"],
+        heading: ["var(--font-sora)", "sans-serif"],
+        body: ["var(--font-inter)", "sans-serif"],
       },
       backgroundImage: {
         "gradient-hero": "linear-gradient(135deg, #183B5B 0%, #0F2840 60%, #0A1E30 100%)",
