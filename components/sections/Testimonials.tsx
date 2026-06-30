@@ -128,7 +128,7 @@ export function Testimonials() {
 
                     {/* Text */}
                     <blockquote className="mt-5 text-dark/75 text-base sm:text-lg leading-relaxed italic">
-                      "{testimonial.text}"
+                      &ldquo;{testimonial.text}&rdquo;
                     </blockquote>
 
                     {/* Author */}
